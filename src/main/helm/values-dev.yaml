@@ -1,0 +1,6 @@
+config:
+  host: devx-helloworld-springboot-tpxj5.nonp-dev-4.use1.eng-nonprod.flexport.internal
+  namespace: devx-helloworld-springboot-tpxj5-dev
+  image:
+    name: artifactory.flexport.io/devx-helloworld-springboot-tpxj5-docker-dev-local/devx-helloworld-springboot-tpxj5
+    tag: 0.0.1-SNAPSHOT
